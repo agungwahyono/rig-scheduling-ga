@@ -5,13 +5,13 @@ This repository provides two approaches:
 - **GA-1 (non-tiered):** jointly optimizes all wells using production (BOPD) and spatial distance.
 - **GA-2 (tiered):** classifies wells by production tiers and applies different optimization rules for each tier.
 
-> **Note:** Original notebooks are formatted for **Google Colab** and preserve the code structure to avoid output changes.
+> **Note:** Original notebooks are formatted for **Google Colab**.
 
 ## Features
 - Colab-friendly notebooks (`notebooks/GA1_colab.ipynb`, `notebooks/GA2_colab.ipynb`)
 - Distance calculations using Haversine
 - Convergence and route visualizations
-- Sample data schema (no sensitive data included)
+- Sample data schema
 
 ## Getting Started (Google Colab)
 1. Open Colab → **File > Open notebook** → **GitHub** tab.

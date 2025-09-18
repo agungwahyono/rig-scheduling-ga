@@ -19,13 +19,6 @@ This repository provides two approaches:
 3. Upload your field dataset (if required) to the Colab working directory **or** mount Google Drive and adjust the path in the notebook’s data-loading cell.
 4. Run all cells.
 
-## Local Setup (Optional)
-```bash
-python -m venv .venv
-source .venv/bin/activate     # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
 ## Repository Structure
 ```
 rig-scheduling-ga/
@@ -40,8 +33,7 @@ rig-scheduling-ga/
 │  ├─ README.md
 │  └─ sample_wells.csv          # dummy example (no sensitive data)
 └─ notebooks/
-   ├─ GA1_colab.ipynb           # original GA-1 code (Colab)
-   └─ GA2_colab.ipynb           # original GA-2 code (Colab)
+   └─ rig_scheduling_using_GA.ipynb           # original GA code (Colab)
 ```
 
 ## Data Privacy

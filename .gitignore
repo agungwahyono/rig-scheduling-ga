@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & results (avoid sensitive data)
+data/*.xlsx
+data/*.csv
+!data/sample_wells.csv
+results/

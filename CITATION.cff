@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Rig Scheduling Optimization with Genetic Algorithm (GA-1 & GA-2)"
+authors:
+  - family-names: Wahyono
+    given-names: Agung Dwi
+  - family-names: Sundjaja
+    given-names: Arta Moro
+year: 2025
+doi: ""
+url: "https://github.com/<your-username>/rig-scheduling-ga"

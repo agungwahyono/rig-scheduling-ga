@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+adjustText
+folium
+pillow
+scikit-learn
+geopy

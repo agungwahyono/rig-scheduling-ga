@@ -8,14 +8,14 @@ This repository provides two approaches:
 > **Note:** Original notebooks are formatted for **Google Colab**.
 
 ## Features
-- Colab-friendly notebooks (`notebooks/GA1_colab.ipynb`, `notebooks/GA2_colab.ipynb`)
+- Colab-friendly notebooks (`notebooks/rig_scheduling_using_GA.ipynb`)
 - Distance calculations using Haversine
 - Convergence and route visualizations
 - Sample data schema
 
 ## Getting Started (Google Colab)
 1. Open Colab → **File > Open notebook** → **GitHub** tab.
-2. Paste your repo URL (after you upload this repo) and open `notebooks/GA1_colab.ipynb` or `GA2_colab.ipynb`.
+2. Paste your repo URL (after you upload this repo) and open `notebooks/rig_scheduling_using_GA.ipynb`.
 3. Upload your field dataset (if required) to the Colab working directory **or** mount Google Drive and adjust the path in the notebook’s data-loading cell.
 4. Run all cells.
 
